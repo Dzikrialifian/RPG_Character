@@ -1,5 +1,3 @@
-# RPG_Character
-
 # RPGcharacter
 
 This implementation uses basic Python logic to create and validate an RPG character with a name and three character stats: *Strength*, *Intelligence*, and *Charisma*.
